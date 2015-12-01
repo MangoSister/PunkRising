@@ -1,0 +1,4 @@
+Chord Interval: 2.2sec
+
+Chord Progression: Bm - A - Em - Bm - D - G - A - Bm
+		   Bm - A - Em - Bm - D - A - G - Bm

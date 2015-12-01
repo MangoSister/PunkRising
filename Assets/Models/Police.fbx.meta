@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 836557b212a58c249b3b082aa3c54c17
+timeCreated: 1446060572
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ctrl_body_01
+    100002: ctrl_head_01
+    100004: geo_body_01
+    100006: geo_cloth_01
+    100008: geo_glass_01
+    100010: geo_group_01
+    100012: geo_gun_01
+    100014: group
+    100016: jnt_head_01
+    100018: jnt_hip_01
+    100020: jnt_tail_01
+    100022: jnt_top_01
+    100024: joint17
+    100026: joint17 1
+    100028: joint18
+    100030: joint18 1
+    100032: joint19
+    100034: joint19 1
+    100036: joint20
+    100038: joint20 1
+    100040: joint21
+    100042: joint21 1
+    100044: joint22
+    100046: joint22 1
+    100048: joint23
+    100050: joint23 1
+    100052: l_ctrl_aim_01
+    100054: l_ctrl_arm_01
+    100056: l_ctrl_foot_01
+    100058: l_ctrl_hand_01
+    100060: l_ctrl_hand_01 1
+    100062: l_ik_arm_01
+    100064: l_ik_foot_01
+    100066: l_ik_leg_01
+    100068: l_jnt_arm_01
+    100070: l_jnt_foot_01
+    100072: l_jnt_forearm_01
+    100074: l_jnt_hand_01
+    100076: l_jnt_leg_01
+    100078: l_jnt_thigh_01
+    100080: l_jnt_toe_01
+    100082: nurbsCircle1
+    100084: nurbsCircle2
+    100086: pasted__l_ctrl_foot_01
+    100088: pasted__nurbsCircle1
+    100090: //RootNode
+    100092: r_ctrl_aim_01
+    100094: r_ctrl_arm_01
+    100096: r_ctrl_foot_01
+    100098: r_ctrl_hand_01
+    100100: r_ctrl_hand_01 1
+    100102: r_ik_arm_01
+    100104: r_ik_foot_01
+    100106: r_ik_leg_01
+    100108: r_jnt_arm_01
+    100110: r_jnt_foot_01
+    100112: r_jnt_forearm_01
+    100114: r_jnt_hand_01
+    100116: r_jnt_leg_01
+    100118: r_jnt_thigh_01
+    100120: r_jnt_toe_01
+    100122: pCylinder1
+    400000: ctrl_body_01
+    400002: ctrl_head_01
+    400004: geo_body_01
+    400006: geo_cloth_01
+    400008: geo_glass_01
+    400010: geo_group_01
+    400012: geo_gun_01
+    400014: group
+    400016: jnt_head_01
+    400018: jnt_hip_01
+    400020: jnt_tail_01
+    400022: jnt_top_01
+    400024: joint17
+    400026: joint17 1
+    400028: joint18
+    400030: joint18 1
+    400032: joint19
+    400034: joint19 1
+    400036: joint20
+    400038: joint20 1
+    400040: joint21
+    400042: joint21 1
+    400044: joint22
+    400046: joint22 1
+    400048: joint23
+    400050: joint23 1
+    400052: l_ctrl_aim_01
+    400054: l_ctrl_arm_01
+    400056: l_ctrl_foot_01
+    400058: l_ctrl_hand_01
+    400060: l_ctrl_hand_01 1
+    400062: l_ik_arm_01
+    400064: l_ik_foot_01
+    400066: l_ik_leg_01
+    400068: l_jnt_arm_01
+    400070: l_jnt_foot_01
+    400072: l_jnt_forearm_01
+    400074: l_jnt_hand_01
+    400076: l_jnt_leg_01
+    400078: l_jnt_thigh_01
+    400080: l_jnt_toe_01
+    400082: nurbsCircle1
+    400084: nurbsCircle2
+    400086: pasted__l_ctrl_foot_01
+    400088: pasted__nurbsCircle1
+    400090: //RootNode
+    400092: r_ctrl_aim_01
+    400094: r_ctrl_arm_01
+    400096: r_ctrl_foot_01
+    400098: r_ctrl_hand_01
+    400100: r_ctrl_hand_01 1
+    400102: r_ik_arm_01
+    400104: r_ik_foot_01
+    400106: r_ik_leg_01
+    400108: r_jnt_arm_01
+    400110: r_jnt_foot_01
+    400112: r_jnt_forearm_01
+    400114: r_jnt_hand_01
+    400116: r_jnt_leg_01
+    400118: r_jnt_thigh_01
+    400120: r_jnt_toe_01
+    400122: pCylinder1
+    2300000: geo_gun_01
+    3300000: geo_gun_01
+    4300000: geo_body_01
+    4300002: geo_cloth_01
+    4300004: geo_glass_01
+    4300006: geo_gun_01
+    4300008: pCylinder1
+    7400000: T-pose
+    7400002: Shoot
+    7400004: Walking
+    7400006: Idle
+    7400008: Die
+    9500000: //RootNode
+    13700000: geo_body_01
+    13700002: geo_cloth_01
+    13700004: geo_glass_01
+    13700006: pCylinder1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T-pose
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_body_01
+        weight: 1
+      - path: ctrl_body_01/ctrl_head_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_hand_01 1
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_hand_01 1
+        weight: 1
+      - path: geo_group_01
+        weight: 1
+      - path: geo_group_01/geo_body_01
+        weight: 1
+      - path: geo_group_01/geo_cloth_01
+        weight: 1
+      - path: geo_group_01/geo_glass_01
+        weight: 1
+      - path: geo_group_01/geo_gun_01
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01/pasted__nurbsCircle1
+        weight: 1
+      - path: jnt_hip_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01/jnt_top_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01/l_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01/r_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18/joint19
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20/joint21
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22/joint23
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1/joint19 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1/joint21 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1/joint23
+          1
+        weight: 1
+      - path: l_ctrl_foot_01
+        weight: 1
+      - path: l_ctrl_foot_01/nurbsCircle1
+        weight: 1
+      - path: l_ctrl_hand_01
+        weight: 1
+      - path: l_ik_arm_01
+        weight: 1
+      - path: l_ik_foot_01
+        weight: 1
+      - path: l_ik_leg_01
+        weight: 1
+      - path: r_ctrl_foot_01
+        weight: 1
+      - path: r_ctrl_foot_01/nurbsCircle2
+        weight: 1
+      - path: r_ctrl_hand_01
+        weight: 1
+      - path: r_ik_arm_01
+        weight: 1
+      - path: r_ik_foot_01
+        weight: 1
+      - path: r_ik_leg_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_body_01
+        weight: 1
+      - path: ctrl_body_01/ctrl_head_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_hand_01 1
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_hand_01 1
+        weight: 1
+      - path: geo_group_01
+        weight: 1
+      - path: geo_group_01/geo_body_01
+        weight: 1
+      - path: geo_group_01/geo_cloth_01
+        weight: 1
+      - path: geo_group_01/geo_glass_01
+        weight: 1
+      - path: geo_group_01/geo_gun_01
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01/pasted__nurbsCircle1
+        weight: 1
+      - path: jnt_hip_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01/jnt_top_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01/l_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01/r_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18/joint19
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20/joint21
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22/joint23
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1/joint19 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1/joint21 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1/joint23
+          1
+        weight: 1
+      - path: l_ctrl_foot_01
+        weight: 1
+      - path: l_ctrl_foot_01/nurbsCircle1
+        weight: 1
+      - path: l_ctrl_hand_01
+        weight: 1
+      - path: l_ik_arm_01
+        weight: 1
+      - path: l_ik_foot_01
+        weight: 1
+      - path: l_ik_leg_01
+        weight: 1
+      - path: r_ctrl_foot_01
+        weight: 1
+      - path: r_ctrl_foot_01/nurbsCircle2
+        weight: 1
+      - path: r_ctrl_hand_01
+        weight: 1
+      - path: r_ik_arm_01
+        weight: 1
+      - path: r_ik_foot_01
+        weight: 1
+      - path: r_ik_leg_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_body_01
+        weight: 1
+      - path: ctrl_body_01/ctrl_head_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_hand_01 1
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_hand_01 1
+        weight: 1
+      - path: geo_group_01
+        weight: 1
+      - path: geo_group_01/geo_body_01
+        weight: 1
+      - path: geo_group_01/geo_cloth_01
+        weight: 1
+      - path: geo_group_01/geo_glass_01
+        weight: 1
+      - path: geo_group_01/geo_gun_01
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01/pasted__nurbsCircle1
+        weight: 1
+      - path: jnt_hip_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01/jnt_top_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01/l_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01/r_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18/joint19
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20/joint21
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22/joint23
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1/joint19 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1/joint21 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1/joint23
+          1
+        weight: 1
+      - path: l_ctrl_foot_01
+        weight: 1
+      - path: l_ctrl_foot_01/nurbsCircle1
+        weight: 1
+      - path: l_ctrl_hand_01
+        weight: 1
+      - path: l_ik_arm_01
+        weight: 1
+      - path: l_ik_foot_01
+        weight: 1
+      - path: l_ik_leg_01
+        weight: 1
+      - path: r_ctrl_foot_01
+        weight: 1
+      - path: r_ctrl_foot_01/nurbsCircle2
+        weight: 1
+      - path: r_ctrl_hand_01
+        weight: 1
+      - path: r_ik_arm_01
+        weight: 1
+      - path: r_ik_foot_01
+        weight: 1
+      - path: r_ik_leg_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_body_01
+        weight: 1
+      - path: ctrl_body_01/ctrl_head_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_hand_01 1
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_hand_01 1
+        weight: 1
+      - path: geo_group_01
+        weight: 1
+      - path: geo_group_01/geo_body_01
+        weight: 1
+      - path: geo_group_01/geo_cloth_01
+        weight: 1
+      - path: geo_group_01/geo_glass_01
+        weight: 1
+      - path: geo_group_01/geo_gun_01
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01/pasted__nurbsCircle1
+        weight: 1
+      - path: jnt_hip_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01/jnt_top_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01/l_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01/r_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18/joint19
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20/joint21
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22/joint23
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1/joint19 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1/joint21 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1/joint23
+          1
+        weight: 1
+      - path: l_ctrl_foot_01
+        weight: 1
+      - path: l_ctrl_foot_01/nurbsCircle1
+        weight: 1
+      - path: l_ctrl_hand_01
+        weight: 1
+      - path: l_ik_arm_01
+        weight: 1
+      - path: l_ik_foot_01
+        weight: 1
+      - path: l_ik_leg_01
+        weight: 1
+      - path: r_ctrl_foot_01
+        weight: 1
+      - path: r_ctrl_foot_01/nurbsCircle2
+        weight: 1
+      - path: r_ctrl_hand_01
+        weight: 1
+      - path: r_ik_arm_01
+        weight: 1
+      - path: r_ik_foot_01
+        weight: 1
+      - path: r_ik_leg_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 71
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ctrl_body_01
+        weight: 1
+      - path: ctrl_body_01/ctrl_head_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/l_ctrl_arm_01/l_ctrl_hand_01 1
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_aim_01
+        weight: 1
+      - path: ctrl_body_01/r_ctrl_arm_01/r_ctrl_hand_01 1
+        weight: 1
+      - path: geo_group_01
+        weight: 1
+      - path: geo_group_01/geo_body_01
+        weight: 1
+      - path: geo_group_01/geo_cloth_01
+        weight: 1
+      - path: geo_group_01/geo_glass_01
+        weight: 1
+      - path: geo_group_01/geo_gun_01
+        weight: 1
+      - path: geo_group_01/pCylinder1
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01
+        weight: 1
+      - path: group/pasted__l_ctrl_foot_01/pasted__nurbsCircle1
+        weight: 1
+      - path: jnt_hip_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01
+        weight: 1
+      - path: jnt_hip_01/jnt_head_01/jnt_top_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/l_jnt_thigh_01/l_jnt_leg_01/l_jnt_foot_01/l_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01
+        weight: 1
+      - path: jnt_hip_01/jnt_tail_01/r_jnt_thigh_01/r_jnt_leg_01/r_jnt_foot_01/r_jnt_toe_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint18/joint19
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint17/joint20/joint21
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22
+        weight: 1
+      - path: jnt_hip_01/l_jnt_arm_01/l_jnt_forearm_01/l_jnt_hand_01/joint22/joint23
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint18
+          1/joint19 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint17 1/joint20
+          1/joint21 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1
+        weight: 1
+      - path: jnt_hip_01/r_jnt_arm_01/r_jnt_forearm_01/r_jnt_hand_01/joint22 1/joint23
+          1
+        weight: 1
+      - path: l_ctrl_foot_01
+        weight: 1
+      - path: l_ctrl_foot_01/nurbsCircle1
+        weight: 1
+      - path: l_ctrl_hand_01
+        weight: 1
+      - path: l_ik_arm_01
+        weight: 1
+      - path: l_ik_foot_01
+        weight: 1
+      - path: l_ik_leg_01
+        weight: 1
+      - path: r_ctrl_foot_01
+        weight: 1
+      - path: r_ctrl_foot_01/nurbsCircle2
+        weight: 1
+      - path: r_ctrl_hand_01
+        weight: 1
+      - path: r_ik_arm_01
+        weight: 1
+      - path: r_ik_foot_01
+        weight: 1
+      - path: r_ik_leg_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
